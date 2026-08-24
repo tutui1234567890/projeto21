@@ -1,0 +1,17 @@
+[
+  {
+    "nome": "Kim Jong-un",
+    "nacionalidade":"Norte coreano",
+    "imagem":"https://www.reuters.com/resizer/v2/VOSWY4CQSNM5TAZZFHX3TZCGUU.jpg?auth=980dfdcd4f742e97777d18fc5aa753367fd6b88a7800cb76a7535155e67b88c2&width=6000&quality=80"
+  },
+  {
+    "nome":"josef stalin",
+    "nacionalidade":"russo",
+    "imagem":"https://tse2.mm.bing.net/th/id/OIP.gQLUpjOlFHYVZH560nnWTgHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "nome":"Benito Mussolini",
+    "nacionalidade":"italiano",
+    "imagem":"https://tse4.mm.bing.net/th/id/OIP.pZKH1-stERYLBTkyCOq9xQAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  }
+] 
